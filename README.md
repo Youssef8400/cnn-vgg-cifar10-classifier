@@ -2,6 +2,23 @@
 
 Créer, entraîner et évaluer un modèle de réseau de neurones convolutifs (CNN) basé sur l'architecture VGG avec Keras pour classer les images du dataset CIFAR-10.
 
+
+*Configuration & Exécution*
+
+- Python : version recommandée : Python 3.10 ou supérieure
+- pip install -r requirements.txt (Installation des dépendances)
+- python model.py ( Pour entraîner le modèle , et le sauvegarder dans un fichier .h5 )
+- python deploiement.py ( Pour lancer l’interface graphique de prédiction )
+  
+
+
+
+
+
+
+
+
+
 ---
 
 ## 1. Description du Dataset
